@@ -182,6 +182,5 @@ To add new videos after the initial setup:
 | Vector storage | pandas + joblib |
 | LLM | OpenAI GPT / Anthropic Claude |
 
----.
 
 
